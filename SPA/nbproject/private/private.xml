@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/SPA/index.php</file>
+            <file>file:/C:/xampp/htdocs/SPA/Model/image.php</file>
+            <file>file:/C:/xampp/htdocs/SPA/Controller/upload.php</file>
+            <file>file:/C:/xampp/htdocs/SPA/Db/upload.php</file>
+            <file>file:/C:/xampp/htdocs/SPA/Model/category.php</file>
+            <file>file:/C:/xampp/htdocs/SPA/Db/connection.php</file>
+            <file>file:/C:/xampp/htdocs/SPA/Controller/getHint.php</file>
+            <file>file:/C:/xampp/htdocs/SPA/Db/multipleF.php</file>
+            <file>file:/C:/xampp/htdocs/SPA/Controller/start.php</file>
+            <file>file:/C:/xampp/htdocs/SPA/Controller/getCategoryImages.php</file>
+        </group>
+    </open-files>
+</project-private>
